@@ -1,9 +1,9 @@
 # WakeyWakey
-WakeyWakey is a windows study monitor app that screams "Faaaah!" when it detects  dosing via webcam so that you cant get back yo studying!
+WakeyWakey is a windows study monitor app that screams "Faaaah!" when it detects  dosing via webcam so that you can get back to studying!
 
 
 Project Overview
-WakeyWakey is a lightweight, background-monitored study aid designed to keep you alert during intense study sessions. By utilizing real-time computer vision, the application monitors your face and eyes to trigger an audible alarm if it detects you have been closing your eyes for an extended period.
+WakeyWakey is a lightweight, background-monitored study aid designed to keep you alert during intense study sessions. By utilizing real-time computer vision, the application monitors your face and eyes to trigger an audible alarm if it detects you have been closing your eyes for an extended period (3 seconds).
 
 Core Functionality
 Real-time Eye-State Analysis: Leverages OpenCV and Haar Cascades for efficient and responsive facial feature detection.
